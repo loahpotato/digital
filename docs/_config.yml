@@ -1,10 +1,10 @@
 permalink:           pretty
 
 # Setup
-title:               'kmeans PyTorch'
+title:               'Evaluating the Perception of Realistic and Stylized Digital Doubles'
 #tagline:             'A Jekyll theme'
 url:                 https://subhadarship.github.io/kmeans_pytorch/
-baseurl:             '/kmeans_pytorch'
+baseurl:             '/digital'
 
 # About/contact
 author:
